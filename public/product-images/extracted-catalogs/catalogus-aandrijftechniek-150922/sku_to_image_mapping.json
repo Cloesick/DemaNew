@@ -1,0 +1,1006 @@
+{
+  "catalog": "catalogus-aandrijftechniek-150922",
+  "generated": "2025-12-06T22:29:11.935382",
+  "total_skus": 77,
+  "total_images": 209,
+  "mapping": {
+    "2002": [
+      {
+        "filename": "1985+1994+2002+2008+2014+2016+2017_p005_i00.webp",
+        "page": 5,
+        "all_skus": [
+          "1985",
+          "1994",
+          "2002",
+          "2008",
+          "2014",
+          "2016",
+          "2017"
+        ]
+      }
+    ],
+    "2008": [
+      {
+        "filename": "1985+1994+2002+2008+2014+2016+2017_p005_i00.webp",
+        "page": 5,
+        "all_skus": [
+          "1985",
+          "1994",
+          "2002",
+          "2008",
+          "2014",
+          "2016",
+          "2017"
+        ]
+      }
+    ],
+    "2014": [
+      {
+        "filename": "1985+1994+2002+2008+2014+2016+2017_p005_i00.webp",
+        "page": 5,
+        "all_skus": [
+          "1985",
+          "1994",
+          "2002",
+          "2008",
+          "2014",
+          "2016",
+          "2017"
+        ]
+      }
+    ],
+    "1994": [
+      {
+        "filename": "1985+1994+2002+2008+2014+2016+2017_p005_i00.webp",
+        "page": 5,
+        "all_skus": [
+          "1985",
+          "1994",
+          "2002",
+          "2008",
+          "2014",
+          "2016",
+          "2017"
+        ]
+      }
+    ],
+    "2017": [
+      {
+        "filename": "1985+1994+2002+2008+2014+2016+2017_p005_i00.webp",
+        "page": 5,
+        "all_skus": [
+          "1985",
+          "1994",
+          "2002",
+          "2008",
+          "2014",
+          "2016",
+          "2017"
+        ]
+      }
+    ],
+    "2016": [
+      {
+        "filename": "1985+1994+2002+2008+2014+2016+2017_p005_i00.webp",
+        "page": 5,
+        "all_skus": [
+          "1985",
+          "1994",
+          "2002",
+          "2008",
+          "2014",
+          "2016",
+          "2017"
+        ]
+      }
+    ],
+    "1985": [
+      {
+        "filename": "1985+1994+2002+2008+2014+2016+2017_p005_i00.webp",
+        "page": 5,
+        "all_skus": [
+          "1985",
+          "1994",
+          "2002",
+          "2008",
+          "2014",
+          "2016",
+          "2017"
+        ]
+      }
+    ],
+    "RLNUCP205": [
+      {
+        "filename": "P200+P300+RLNUCP204+RLNUCP205_p012_i00.webp",
+        "page": 12,
+        "all_skus": [
+          "P200",
+          "P300",
+          "RLNUCP204",
+          "RLNUCP205"
+        ]
+      },
+      {
+        "filename": "P200+P300+RLNUCP204+RLNUCP205_p012_i01.webp",
+        "page": 12,
+        "all_skus": [
+          "P200",
+          "P300",
+          "RLNUCP204",
+          "RLNUCP205"
+        ]
+      }
+    ],
+    "RLNUCP204": [
+      {
+        "filename": "P200+P300+RLNUCP204+RLNUCP205_p012_i00.webp",
+        "page": 12,
+        "all_skus": [
+          "P200",
+          "P300",
+          "RLNUCP204",
+          "RLNUCP205"
+        ]
+      },
+      {
+        "filename": "P200+P300+RLNUCP204+RLNUCP205_p012_i01.webp",
+        "page": 12,
+        "all_skus": [
+          "P200",
+          "P300",
+          "RLNUCP204",
+          "RLNUCP205"
+        ]
+      }
+    ],
+    "P200": [
+      {
+        "filename": "P200+P300+RLNUCP204+RLNUCP205_p012_i00.webp",
+        "page": 12,
+        "all_skus": [
+          "P200",
+          "P300",
+          "RLNUCP204",
+          "RLNUCP205"
+        ]
+      },
+      {
+        "filename": "P200+P300+RLNUCP204+RLNUCP205_p012_i01.webp",
+        "page": 12,
+        "all_skus": [
+          "P200",
+          "P300",
+          "RLNUCP204",
+          "RLNUCP205"
+        ]
+      }
+    ],
+    "P300": [
+      {
+        "filename": "P200+P300+RLNUCP204+RLNUCP205_p012_i00.webp",
+        "page": 12,
+        "all_skus": [
+          "P200",
+          "P300",
+          "RLNUCP204",
+          "RLNUCP205"
+        ]
+      },
+      {
+        "filename": "P200+P300+RLNUCP204+RLNUCP205_p012_i01.webp",
+        "page": 12,
+        "all_skus": [
+          "P200",
+          "P300",
+          "RLNUCP204",
+          "RLNUCP205"
+        ]
+      }
+    ],
+    "UC311G2": [
+      {
+        "filename": "UC311G2_p012_i03.webp",
+        "page": 12,
+        "all_skus": [
+          "UC311G2"
+        ]
+      }
+    ],
+    "RLNUCPW204": [
+      {
+        "filename": "PAE200+PW200+RLNUCPW204+RLNUCPW205_p013_i00.webp",
+        "page": 13,
+        "all_skus": [
+          "PAE200",
+          "PW200",
+          "RLNUCPW204",
+          "RLNUCPW205"
+        ]
+      },
+      {
+        "filename": "PAE200+PW200+RLNUCPW204+RLNUCPW205_p013_i01.webp",
+        "page": 13,
+        "all_skus": [
+          "PAE200",
+          "PW200",
+          "RLNUCPW204",
+          "RLNUCPW205"
+        ]
+      }
+    ],
+    "PW200": [
+      {
+        "filename": "PAE200+PW200+RLNUCPW204+RLNUCPW205_p013_i00.webp",
+        "page": 13,
+        "all_skus": [
+          "PAE200",
+          "PW200",
+          "RLNUCPW204",
+          "RLNUCPW205"
+        ]
+      },
+      {
+        "filename": "PAE200+PW200+RLNUCPW204+RLNUCPW205_p013_i01.webp",
+        "page": 13,
+        "all_skus": [
+          "PAE200",
+          "PW200",
+          "RLNUCPW204",
+          "RLNUCPW205"
+        ]
+      }
+    ],
+    "RLNUCPW205": [
+      {
+        "filename": "PAE200+PW200+RLNUCPW204+RLNUCPW205_p013_i00.webp",
+        "page": 13,
+        "all_skus": [
+          "PAE200",
+          "PW200",
+          "RLNUCPW204",
+          "RLNUCPW205"
+        ]
+      },
+      {
+        "filename": "PAE200+PW200+RLNUCPW204+RLNUCPW205_p013_i01.webp",
+        "page": 13,
+        "all_skus": [
+          "PAE200",
+          "PW200",
+          "RLNUCPW204",
+          "RLNUCPW205"
+        ]
+      }
+    ],
+    "PAE200": [
+      {
+        "filename": "PAE200+PW200+RLNUCPW204+RLNUCPW205_p013_i00.webp",
+        "page": 13,
+        "all_skus": [
+          "PAE200",
+          "PW200",
+          "RLNUCPW204",
+          "RLNUCPW205"
+        ]
+      },
+      {
+        "filename": "PAE200+PW200+RLNUCPW204+RLNUCPW205_p013_i01.webp",
+        "page": 13,
+        "all_skus": [
+          "PAE200",
+          "PW200",
+          "RLNUCPW204",
+          "RLNUCPW205"
+        ]
+      }
+    ],
+    "F200": [
+      {
+        "filename": "F200+RLNUCF204+RLNUCF205_p014_i00.webp",
+        "page": 14,
+        "all_skus": [
+          "F200",
+          "RLNUCF204",
+          "RLNUCF205"
+        ]
+      },
+      {
+        "filename": "F200+RLFUCF204+RLFUCF205_p015_i00.webp",
+        "page": 15,
+        "all_skus": [
+          "F200",
+          "RLFUCF204",
+          "RLFUCF205"
+        ]
+      }
+    ],
+    "RLNUCF205": [
+      {
+        "filename": "F200+RLNUCF204+RLNUCF205_p014_i00.webp",
+        "page": 14,
+        "all_skus": [
+          "F200",
+          "RLNUCF204",
+          "RLNUCF205"
+        ]
+      }
+    ],
+    "RLNUCF204": [
+      {
+        "filename": "F200+RLNUCF204+RLNUCF205_p014_i00.webp",
+        "page": 14,
+        "all_skus": [
+          "F200",
+          "RLNUCF204",
+          "RLNUCF205"
+        ]
+      }
+    ],
+    "RLFUCF205": [
+      {
+        "filename": "F200+RLFUCF204+RLFUCF205_p015_i00.webp",
+        "page": 15,
+        "all_skus": [
+          "F200",
+          "RLFUCF204",
+          "RLFUCF205"
+        ]
+      }
+    ],
+    "RLFUCF204": [
+      {
+        "filename": "F200+RLFUCF204+RLFUCF205_p015_i00.webp",
+        "page": 15,
+        "all_skus": [
+          "F200",
+          "RLFUCF204",
+          "RLFUCF205"
+        ]
+      }
+    ],
+    "FC200": [
+      {
+        "filename": "FC200+RLNUCFC204+RLNUCFC205_p015_i01.webp",
+        "page": 15,
+        "all_skus": [
+          "FC200",
+          "RLNUCFC204",
+          "RLNUCFC205"
+        ]
+      }
+    ],
+    "RLNUCFC205": [
+      {
+        "filename": "FC200+RLNUCFC204+RLNUCFC205_p015_i01.webp",
+        "page": 15,
+        "all_skus": [
+          "FC200",
+          "RLNUCFC204",
+          "RLNUCFC205"
+        ]
+      }
+    ],
+    "RLNUCFC204": [
+      {
+        "filename": "FC200+RLNUCFC204+RLNUCFC205_p015_i01.webp",
+        "page": 15,
+        "all_skus": [
+          "FC200",
+          "RLNUCFC204",
+          "RLNUCFC205"
+        ]
+      }
+    ],
+    "RLNUCFL204": [
+      {
+        "filename": "FL200+FL300+RLNUCFL204_p016_i00.webp",
+        "page": 16,
+        "all_skus": [
+          "FL200",
+          "FL300",
+          "RLNUCFL204"
+        ]
+      }
+    ],
+    "FL200": [
+      {
+        "filename": "FL200+FL300+RLNUCFL204_p016_i00.webp",
+        "page": 16,
+        "all_skus": [
+          "FL200",
+          "FL300",
+          "RLNUCFL204"
+        ]
+      },
+      {
+        "filename": "FL200+FL300+RLFUCFL204+RLFUCFL205_p017_i00.webp",
+        "page": 17,
+        "all_skus": [
+          "FL200",
+          "FL300",
+          "RLFUCFL204",
+          "RLFUCFL205"
+        ]
+      }
+    ],
+    "FL300": [
+      {
+        "filename": "FL200+FL300+RLNUCFL204_p016_i00.webp",
+        "page": 16,
+        "all_skus": [
+          "FL200",
+          "FL300",
+          "RLNUCFL204"
+        ]
+      },
+      {
+        "filename": "FL200+FL300+RLFUCFL204+RLFUCFL205_p017_i00.webp",
+        "page": 17,
+        "all_skus": [
+          "FL200",
+          "FL300",
+          "RLFUCFL204",
+          "RLFUCFL205"
+        ]
+      }
+    ],
+    "FS300": [
+      {
+        "filename": "FS300+RLSUCFS310_p016_i01.webp",
+        "page": 16,
+        "all_skus": [
+          "FS300",
+          "RLSUCFS310"
+        ]
+      }
+    ],
+    "RLSUCFS310": [
+      {
+        "filename": "FS300+RLSUCFS310_p016_i01.webp",
+        "page": 16,
+        "all_skus": [
+          "FS300",
+          "RLSUCFS310"
+        ]
+      }
+    ],
+    "RLFUCFL204": [
+      {
+        "filename": "FL200+FL300+RLFUCFL204+RLFUCFL205_p017_i00.webp",
+        "page": 17,
+        "all_skus": [
+          "FL200",
+          "FL300",
+          "RLFUCFL204",
+          "RLFUCFL205"
+        ]
+      }
+    ],
+    "RLFUCFL205": [
+      {
+        "filename": "FL200+FL300+RLFUCFL204+RLFUCFL205_p017_i00.webp",
+        "page": 17,
+        "all_skus": [
+          "FL200",
+          "FL300",
+          "RLFUCFL204",
+          "RLFUCFL205"
+        ]
+      }
+    ],
+    "FA200": [
+      {
+        "filename": "FA200+RLNUCFA205_p017_i01.webp",
+        "page": 17,
+        "all_skus": [
+          "FA200",
+          "RLNUCFA205"
+        ]
+      }
+    ],
+    "RLNUCFA205": [
+      {
+        "filename": "FA200+RLNUCFA205_p017_i01.webp",
+        "page": 17,
+        "all_skus": [
+          "FA200",
+          "RLNUCFA205"
+        ]
+      }
+    ],
+    "UC212G2": [
+      {
+        "filename": "UC212G2_p017_i02.webp",
+        "page": 17,
+        "all_skus": [
+          "UC212G2"
+        ]
+      }
+    ],
+    "RLNUCT204": [
+      {
+        "filename": "RLNUCT204+RLNUCT205+T200_p018_i00.webp",
+        "page": 18,
+        "all_skus": [
+          "RLNUCT204",
+          "RLNUCT205",
+          "T200"
+        ]
+      }
+    ],
+    "RLNUCT205": [
+      {
+        "filename": "RLNUCT204+RLNUCT205+T200_p018_i00.webp",
+        "page": 18,
+        "all_skus": [
+          "RLNUCT204",
+          "RLNUCT205",
+          "T200"
+        ]
+      }
+    ],
+    "T200": [
+      {
+        "filename": "RLNUCT204+RLNUCT205+T200_p018_i00.webp",
+        "page": 18,
+        "all_skus": [
+          "RLNUCT204",
+          "RLNUCT205",
+          "T200"
+        ]
+      }
+    ],
+    "PP200": [
+      {
+        "filename": "PP200+RLASPP204+RLASPP205_p018_i01.webp",
+        "page": 18,
+        "all_skus": [
+          "PP200",
+          "RLASPP204",
+          "RLASPP205"
+        ]
+      }
+    ],
+    "RLASPP204": [
+      {
+        "filename": "PP200+RLASPP204+RLASPP205_p018_i01.webp",
+        "page": 18,
+        "all_skus": [
+          "PP200",
+          "RLASPP204",
+          "RLASPP205"
+        ]
+      }
+    ],
+    "RLASPP205": [
+      {
+        "filename": "PP200+RLASPP204+RLASPP205_p018_i01.webp",
+        "page": 18,
+        "all_skus": [
+          "PP200",
+          "RLASPP204",
+          "RLASPP205"
+        ]
+      }
+    ],
+    "PF200": [
+      {
+        "filename": "PF200+RLASPF202_p019_i00.webp",
+        "page": 19,
+        "all_skus": [
+          "PF200",
+          "RLASPF202"
+        ]
+      }
+    ],
+    "RLASPF202": [
+      {
+        "filename": "PF200+RLASPF202_p019_i00.webp",
+        "page": 19,
+        "all_skus": [
+          "PF200",
+          "RLASPF202"
+        ]
+      }
+    ],
+    "PFL200": [
+      {
+        "filename": "PFL200+RLASPFL204_p019_i01.webp",
+        "page": 19,
+        "all_skus": [
+          "PFL200",
+          "RLASPFL204"
+        ]
+      }
+    ],
+    "RLASPFL204": [
+      {
+        "filename": "PFL200+RLASPFL204_p019_i01.webp",
+        "page": 19,
+        "all_skus": [
+          "PFL200",
+          "RLASPFL204"
+        ]
+      }
+    ],
+    "RLNCS203": [
+      {
+        "filename": "RLNCS203_p022_i01.webp",
+        "page": 22,
+        "all_skus": [
+          "RLNCS203"
+        ]
+      }
+    ],
+    "H300": [
+      {
+        "filename": "H300+RLH305_p041_i00.webp",
+        "page": 41,
+        "all_skus": [
+          "H300",
+          "RLH305"
+        ]
+      }
+    ],
+    "RLH305": [
+      {
+        "filename": "H300+RLH305_p041_i00.webp",
+        "page": 41,
+        "all_skus": [
+          "H300",
+          "RLH305"
+        ]
+      }
+    ],
+    "B29": [
+      {
+        "filename": "B29_p048_i00.webp",
+        "page": 48,
+        "all_skus": [
+          "B29"
+        ]
+      },
+      {
+        "filename": "B29_p050_i00.webp",
+        "page": 50,
+        "all_skus": [
+          "B29"
+        ]
+      }
+    ],
+    "C2062": [
+      {
+        "filename": "C2062_p052_i01.webp",
+        "page": 52,
+        "all_skus": [
+          "C2062"
+        ]
+      }
+    ],
+    "CARS100100": [
+      {
+        "filename": "CARS100100+CARS210000+W2100+W2300_p066_i00.webp",
+        "page": 66,
+        "all_skus": [
+          "CARS100100",
+          "CARS210000",
+          "W2100",
+          "W2300"
+        ]
+      }
+    ],
+    "W2100": [
+      {
+        "filename": "CARS100100+CARS210000+W2100+W2300_p066_i00.webp",
+        "page": 66,
+        "all_skus": [
+          "CARS100100",
+          "CARS210000",
+          "W2100",
+          "W2300"
+        ]
+      }
+    ],
+    "CARS210000": [
+      {
+        "filename": "CARS100100+CARS210000+W2100+W2300_p066_i00.webp",
+        "page": 66,
+        "all_skus": [
+          "CARS100100",
+          "CARS210000",
+          "W2100",
+          "W2300"
+        ]
+      }
+    ],
+    "W2300": [
+      {
+        "filename": "CARS100100+CARS210000+W2100+W2300_p066_i00.webp",
+        "page": 66,
+        "all_skus": [
+          "CARS100100",
+          "CARS210000",
+          "W2100",
+          "W2300"
+        ]
+      }
+    ],
+    "CARS210600": [
+      {
+        "filename": "CARS210600+W2380_p066_i01.webp",
+        "page": 66,
+        "all_skus": [
+          "CARS210600",
+          "W2380"
+        ]
+      }
+    ],
+    "W2380": [
+      {
+        "filename": "CARS210600+W2380_p066_i01.webp",
+        "page": 66,
+        "all_skus": [
+          "CARS210600",
+          "W2380"
+        ]
+      }
+    ],
+    "0-100": [
+      {
+        "filename": "0-100_p066_i02.webp",
+        "page": 66,
+        "all_skus": [
+          "0-100"
+        ]
+      },
+      {
+        "filename": "0-100_p066_i03.webp",
+        "page": 66,
+        "all_skus": [
+          "0-100"
+        ]
+      },
+      {
+        "filename": "0-100_p068_i01.webp",
+        "page": 68,
+        "all_skus": [
+          "0-100"
+        ]
+      }
+    ],
+    "CARS210013": [
+      {
+        "filename": "CARS210013_p067_i00.webp",
+        "page": 67,
+        "all_skus": [
+          "CARS210013"
+        ]
+      }
+    ],
+    "CARS260003": [
+      {
+        "filename": "CARS260003_p067_i01.webp",
+        "page": 67,
+        "all_skus": [
+          "CARS260003"
+        ]
+      }
+    ],
+    "0-250": [
+      {
+        "filename": "0-250_p067_i02.webp",
+        "page": 67,
+        "all_skus": [
+          "0-250"
+        ]
+      },
+      {
+        "filename": "0-250_p067_i03.webp",
+        "page": 67,
+        "all_skus": [
+          "0-250"
+        ]
+      }
+    ],
+    "CARS2100141": [
+      {
+        "filename": "CARS2100141_p068_i00.webp",
+        "page": 68,
+        "all_skus": [
+          "CARS2100141"
+        ]
+      }
+    ],
+    "CARBU12413290": [
+      {
+        "filename": "CARBU12413290_p069_i00.webp",
+        "page": 69,
+        "all_skus": [
+          "CARBU12413290"
+        ]
+      }
+    ],
+    "CARBU11345290": [
+      {
+        "filename": "CARBU11345290_p069_i01.webp",
+        "page": 69,
+        "all_skus": [
+          "CARBU11345290"
+        ]
+      }
+    ],
+    "CARBU12S5290": [
+      {
+        "filename": "CARBU12S5290_p070_i00.webp",
+        "page": 70,
+        "all_skus": [
+          "CARBU12S5290"
+        ]
+      }
+    ],
+    "CARBU11S4290": [
+      {
+        "filename": "CARBU11S4290_p070_i01.webp",
+        "page": 70,
+        "all_skus": [
+          "CARBU11S4290"
+        ]
+      }
+    ],
+    "CARBU323252300": [
+      {
+        "filename": "CARBU323252300_p071_i00.webp",
+        "page": 71,
+        "all_skus": [
+          "CARBU323252300"
+        ]
+      },
+      {
+        "filename": "CARBU323252300_p071_i01.webp",
+        "page": 71,
+        "all_skus": [
+          "CARBU323252300"
+        ]
+      }
+    ],
+    "VRA25": [
+      {
+        "filename": "VRA25_p074_i00.webp",
+        "page": 74,
+        "all_skus": [
+          "VRA25"
+        ]
+      }
+    ],
+    "VRB33": [
+      {
+        "filename": "VRB33_p075_i00.webp",
+        "page": 75,
+        "all_skus": [
+          "VRB33"
+        ]
+      }
+    ],
+    "1708": [
+      {
+        "filename": "1708+VRC65_p076_i00.webp",
+        "page": 76,
+        "all_skus": [
+          "1708",
+          "VRC65"
+        ]
+      }
+    ],
+    "VRC65": [
+      {
+        "filename": "1708+VRC65_p076_i00.webp",
+        "page": 76,
+        "all_skus": [
+          "1708",
+          "VRC65"
+        ]
+      }
+    ],
+    "VRAVX100735": [
+      {
+        "filename": "AVX10+VRAVX100735_p078_i00.webp",
+        "page": 78,
+        "all_skus": [
+          "AVX10",
+          "VRAVX100735"
+        ]
+      }
+    ],
+    "AVX10": [
+      {
+        "filename": "AVX10+VRAVX100735_p078_i00.webp",
+        "page": 78,
+        "all_skus": [
+          "AVX10",
+          "VRAVX100735"
+        ]
+      }
+    ],
+    "AVX13": [
+      {
+        "filename": "AVX13+VRAVX130750_p079_i00.webp",
+        "page": 79,
+        "all_skus": [
+          "AVX13",
+          "VRAVX130750"
+        ]
+      }
+    ],
+    "VRAVX130750": [
+      {
+        "filename": "AVX13+VRAVX130750_p079_i00.webp",
+        "page": 79,
+        "all_skus": [
+          "AVX13",
+          "VRAVX130750"
+        ]
+      }
+    ],
+    "OK01503507": [
+      {
+        "filename": "OK01503507_p082_i00.webp",
+        "page": 82,
+        "all_skus": [
+          "OK01503507"
+        ]
+      }
+    ],
+    "1000": [
+      {
+        "filename": "1000_p088_i00.webp",
+        "page": 88,
+        "all_skus": [
+          "1000"
+        ]
+      }
+    ],
+    "8800": [
+      {
+        "filename": "8800_p091_i00.webp",
+        "page": 91,
+        "all_skus": [
+          "8800"
+        ]
+      },
+      {
+        "filename": "8800+BE0426_p092_i00.webp",
+        "page": 92,
+        "all_skus": [
+          "8800",
+          "BE0426"
+        ]
+      },
+      {
+        "filename": "8800+BE0426_p092_i01.webp",
+        "page": 92,
+        "all_skus": [
+          "8800",
+          "BE0426"
+        ]
+      }
+    ],
+    "BE0426": [
+      {
+        "filename": "8800+BE0426_p092_i00.webp",
+        "page": 92,
+        "all_skus": [
+          "8800",
+          "BE0426"
+        ]
+      },
+      {
+        "filename": "8800+BE0426_p092_i01.webp",
+        "page": 92,
+        "all_skus": [
+          "8800",
+          "BE0426"
+        ]
+      }
+    ]
+  }
+}
